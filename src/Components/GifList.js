@@ -1,5 +1,6 @@
 import React from 'react';
 import Gif from './Gif';
+import NoGifs from './NoGifs'
 
 const GifList = props => { 
   
